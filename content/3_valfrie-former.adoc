@@ -1,40 +1,41 @@
 == Valfrie former
 
-Ein kann skriva|
+Ein kann skriva
 
-|==
-bjoda|eller|by
-bljug|"|blyg
-brjosk|"|brosk
-brjost|"|bryst
-brjota|"|bryta
-drjug|"|dryg
-drjupa|"|drypa
-fjuka|"|fyka
-fljot|"|flot
-fljota|"|flyta
-fljuga|"|flyga
-frjoas|"|frysa
-gjota|"|gyta
-knjosk|"| knosk (kveikjebork)
-krjupa|"|krypa
-ljon|"|lyn
-ljona (ar)|"|lyna (er, te)
-ljoster|"|lyster
-ljuga|"|lyga
-njosa|"|nysa
-njota|"|nyta
-njupa|"|nypa
-rjome|"|røme
-rjota|"|ryta
-rjuka|"|ryka
-rjupa (ei)|"|rypa
-skjota|"|skyta
-skrjona|"|skrøna
-sljo|"|slø
-sjoast|"|slåast
-smjuga|"|smyga
-strjuka|"|stryka
-trjost|"|trøsk
-trjota (få ende)|"|tryta
-|==
+
+|===
+|bjoda|eller|by
+|bljug|"|blyg
+|brjosk|"|brosk
+|brjost|"|bryst
+|brjota|"|bryta
+|drjug|"|dryg
+|drjupa|"|drypa
+|fjuka|"|fyka
+|fljot|"|flot
+|fljota|"|flyta
+|fljuga|"|flyga
+|frjoas|"|frysa
+|gjota|"|gyta
+|knjosk|"| knosk (kveikjebork)
+|krjupa|"|krypa
+|ljon|"|lyn
+|ljona (ar)|"|lyna (er, te)
+|ljoster|"|lyster
+|ljuga|"|lyga
+|njosa|"|nysa
+|njota|"|nyta
+|njupa|"|nypa
+|rjome|"|røme
+|rjota|"|ryta
+|rjuka|"|ryka
+|rjupa (ei)|"|rypa
+|skjota|"|skyta
+|skrjona|"|skrøna
+|sljo|"|slø
+|sjoast|"|slåast
+|smjuga|"|smyga
+|strjuka|"|stryka
+|trjost|"|trøsk
+|trjota (få ende)|"|tryta
+|===
