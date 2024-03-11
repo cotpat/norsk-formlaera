@@ -16,3 +16,5 @@ include::content/3_valfrie-former.adoc[]
 include::content/4_ljod.adoc[]
 
 include::content/5_lesemaate.adoc[]
+
+include::content/6_formskifte.adoc[]
