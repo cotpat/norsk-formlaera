@@ -6,10 +6,10 @@
 :toclevels: 3
 :toc-title: Innehald
 
-include::1_1996.adoc[]
+include::content/1_1996.adoc[]
 
-include::2_1918.adoc[]
+include::content/2_1918.adoc[]
 
-include::3_valfrie-former.adoc[]
+include::content/3_valfrie-former.adoc[]
 
-include::4_ljod.adoc[]
+include::content/4_ljod.adoc[]
