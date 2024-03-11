@@ -1,0 +1,20 @@
+page:
+  size: A5
+  layout: portrait
+
+font:
+  catalog:
+    merge: false
+    Junicode:
+      normal: junicode-normal.ttf
+      italic: junicode-italic.ttf
+      bold: junicode-bold.ttf
+      bold_italic: junicode-bold_italic.ttf
+
+base:
+  font-family: Junicode
+  text-align: justify
+
+table:
+  grid-color: transparent
+  border-color: transparent
