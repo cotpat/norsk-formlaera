@@ -1,5 +1,5 @@
 == Ljod og ljodskifte
-:hardbreaks-option:
+
 1. _Konsonantane_, eller _medljodi_, er: b, d, f, g, h, j, k, l, m, n, p, r, s, t, v.
 _Vokalane_, eller _sjølvljodi_, er: a, e, i, o, u, y, æ, å (á, aa).
 _Diftongane_, eller _tviljodi_, er: au, ei, øy.
