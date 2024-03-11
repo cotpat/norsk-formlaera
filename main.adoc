@@ -5,6 +5,7 @@
 :toc: left
 :toclevels: 3
 :toc-title: Innehald
+:hardbreaks-option:
 
 include::content/1_1996.adoc[]
 
@@ -13,3 +14,5 @@ include::content/2_1918.adoc[]
 include::content/3_valfrie-former.adoc[]
 
 include::content/4_ljod.adoc[]
+
+include::content/5_lesemaate.adoc[]
