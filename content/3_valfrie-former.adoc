@@ -1,7 +1,7 @@
 == Valfrie former
 
 Ein kann skriva
-
+[cols=">,^,<"%autowidth.center]
 |===
 |bjoda|eller|by
 |bljug|"|blyg

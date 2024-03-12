@@ -2,6 +2,25 @@ page:
   size: A5
   layout: portrait
 
+title-page-title:
+  font-size: 32
+  font-style: bold
+  top: 40%
+
+title-page-authors:
+  font-size: 24
+  font-style: bold
+
+heading-h1:
+  font-size: 24
+  font-style: bold
+  padding: [0, 0, 10, 10]
+
+heading-h2:
+  font-size: 18
+  font-style: bold
+  padding: [0, 0, 10, 10]
+
 font:
   catalog:
     merge: false
@@ -16,5 +35,12 @@ base:
   text-align: justify
 
 table:
+  # cell:
+  #   line-height: 1.0
+  #   padding: 0
   grid-color: transparent
   border-color: transparent
+  padding: [5, 0, 0, 5]
+
+prose:
+  text-indent-inner: 18

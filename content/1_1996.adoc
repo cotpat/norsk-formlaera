@@ -4,4 +4,5 @@ Dette litle heftet er eit grammatikalsk yversyn yver det me kallar høgnorsk. La
 
 Den grammatikalske nemningsbruken er ikkje alle stader den same som i dag. Nemningsbruken hev brigda seg både i nynorsk og bokmål - som preteritum for tidlegare imperfektum (fortid). I nynorsk er nemningi fyrrtid for det meste avløyst av ordet fortid; adjektiv hev fenge avløysarordet eigenskapsord. Andre døme kunde leitast fram, men me trur uppsettet talar for seg sjølv.
 
+[%text-right]
 *Lars Bjarne Marøy*

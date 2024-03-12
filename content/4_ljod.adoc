@@ -3,9 +3,8 @@
 {counter:list-counter}. _Konsonantane_, eller _medljodi_, er: b, d, f, g, h, j, k, l, m, n, p, r, s, t, v.
 _Vokalane_, eller _sjølvljodi_, er: a, e, i, o, u, y, æ, å (á, aa).
 _Diftongane_, eller _tviljodi_, er: au, ei, øy.
-
 {counter:list-counter}. *e, i, o, u, y* lyder på to måtar, trongt og ope. Den tronge ljoden er namn på sjølvljoden. I lange stavingar finn me oftaste den tronge ljoden, i stutte oftaste den opne. Med den opne ljoden nærmar _e_ seg til _æ_, _i_ til _e_, _o_ til _å_, _u_ til _o_, _y_ til _ø_.
-+
+[%autowidth.center]
 |===
 | Trong: | tre, kne, bles, ser;   | sédd, tédde
 |        | fri, tid, lika, slipa; | ill, vidd
@@ -18,21 +17,19 @@ _Diftongane_, eller _tviljodi_, er: au, ei, øy.
 |        | turr, upp, grunn;      | hug, sumar, fura
 |        | fyrr, fylgja, syrgja;  | skyn, lykel
 |===
-
 {counter:list-counter}. Til letting for lesingi skil dei ofte millom trong og open sjølvljod met eit merke, lutande kile (´) yver trong sjølvljod, og attkeik kile (`) yver open, serleg i norke ord, t. d. _lèt_, notid av lata, og _lét_, fyrrtid av latta; _fór_, fyrrtid av fara; ei _fòr_.
-
 {counter:list-counter}. _Ljodbrigde_ ("omlyd") kallar ein eit sjølvljodskifte som ein gong i tidi er kome frå ein _i_ (_j_) eller _u_ (_v_) i stavingi etter.
-
 {counter:list-counter}. _Lint ljodbridge_ (__i__-ljodbrigde) er det når ein hard sjølvljod hev vorte til ein linn:
-_a_ til _è_: fast, festa; lat, lèta; mann, menner
-_å_ -- _æ_: våt, væta; lås, læsa; kåt, kjæta
-_o_ -- _ø_: bot, bøta; dom, døma; stor, større
-_ò_ -- _ỳ_: dott, dytta; sorg, syrgja
-_u_ -- _y_: sut, syta; hus, hysa; sur, syra
-_ù_ -- _ỳ_: grunn, grynna; ung, yngja
-_au_ -- _øy_: blaut, bløyta; draum, drøyma; laup, løypa
-_jo, jo_ -- _y_: tjon, tyna; ljos, lysa; mjuk, mykja
-
+[%autowidth.center]
+|===
+|_a_ til __è__|fast, festa; lat, lèta; mann, menner|
+|_å_ -- __æ__|våt, væta; lås, læsa; kåt, kjæta|
+|_o_ -- __ø__|bot, bøta; dom, døma; stor, større|
+|_ò_ -- __ỳ__|dott, dytta; sorg, syrgja|
+|_u_ -- __y__|sut, syta; hus, hysa; sur, syra|
+|_ù_ -- __ỳ__|grunn, grynna; ung, yngja|
+|_au_ -- __øy__|blaut, bløyta; draum, drøyma; laup, løypa|
+|_jo, ju_ -- __y__|tjon, tyna; ljos, lysa; mjuk, mykja|
+|===
 {counter:list-counter}. _Hardt ljodbrigde_ er det når _a_ hev vorte til _ò_: _holva_ av _halv_, _toka_ av _tak_, _soga_ av _sag_-de; _born_ av _barn_.
-
 {counter:list-counter}. Eit anna slag ljodskifte, _ljodsprang_ (avlyd), hev me i kjenneformene av dei sterke gjerningsordi. Sjølvljoden ymsar på fleire måtar: _finna_, _fann_, _funne_; _lesa_, _las_, _lese_. Sjå st. 66–75.
