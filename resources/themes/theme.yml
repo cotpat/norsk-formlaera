@@ -1,25 +1,12 @@
+extends: default
+
+base:
+  font-family: Junicode
+  text-align: justify
+
 page:
   size: A5
   layout: portrait
-
-title-page-title:
-  font-size: 32
-  font-style: bold
-  top: 40%
-
-title-page-authors:
-  font-size: 24
-  font-style: bold
-
-heading-h1:
-  font-size: 24
-  font-style: bold
-  padding: [0, 0, 10, 10]
-
-heading-h2:
-  font-size: 18
-  font-style: bold
-  padding: [0, 0, 10, 10]
 
 font:
   catalog:
@@ -30,17 +17,10 @@ font:
       bold: junicode-bold.ttf
       bold_italic: junicode-bold_italic.ttf
 
-base:
-  font-family: Junicode
-  text-align: justify
-
 table:
-  # cell:
-  #   line-height: 1.0
-  #   padding: 0
+  align: center
+  cell:
+    line-height: 0.75
+    padding: [0, 5.0, 0]
   grid-color: transparent
   border-color: transparent
-  padding: [5, 0, 0, 5]
-
-prose:
-  text-indent-inner: 18

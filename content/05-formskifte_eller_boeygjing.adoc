@@ -1,27 +1,36 @@
 == Formskifte
 
-{counter:list-counter}. Sume ord er alltid eins, men dei fleste skifter form, vert bøygde, etter som dei vert brukte til.
+[start=15]
+. Sume ord er alltid eins, men dei fleste skifter form, vert bøygde, etter som dei vert brukte til.
 
 === Namnordi
 
-{counter:list-counter}. Namnordi er anten hankyn, hokyn eller inkjekyn (kynlause). Alle hankynsord kann ein byta um med _han_, hokynsord med _ho_, og inkjekynsord med _det_. Um ei ku kann ein segja at _ho_ er stor, um ein båt at _han_ flyt lett, um eit fjell at _det_ er høgt.
+[start=16]
+. Namnordi er anten hankyn, hokyn eller inkjekyn (kynlause). Alle hankynsord kann ein byta um med _han_, hokynsord med _ho_, og inkjekynsord med _det_. Um ei ku kann ein segja at _ho_ er stor, um ein båt at _han_ flyt lett, um eit fjell at _det_ er høgt.
 
-{counter:list-counter}. Namnordi hev to talformar, _eintal_ og _fleirtal_. I kvar av desse formene må ein skilja millom ei _ubundi_ og ei _bundi_ form: dag, dagen; dagar, dagane.
+. Namnordi hev to talformar, _eintal_ og _fleirtal_. I kvar av desse formene må ein skilja millom ei _ubundi_ og ei _bundi_ form: dag, dagen; dagar, dagane.
 
-{counter:list-counter}. I det gamle mål hadde namnordi fire kasus eller høverformer, som synte klårt kva ordet hadde å gjera i setningi: nemneform, motfallsform, sidefallsform og eigeform. Dei to fyrste hev falle saman for lenge sidan, og dei to sister er mykje burtslipte.
-_Sidefallsformi_ er det ymist att av i fleire bygdemål, men dei fleste nyttar henne no lite eller inkje i skrift, anna i nokre talemåtar, som: av garde, i make, i fatle, i live, av lage.
+. I det gamle mål hadde namnordi fire kasus eller høverformer, som synte klårt kva ordet hadde å gjera i setningi: nemneform, motfallsform, sidefallsform og eigeform. Dei to fyrste hev falle saman for lenge sidan, og dei to sister er mykje burtslipte. +
+_Sidefallsformi_ er det ymist att av i fleire bygdemål, men dei fleste nyttar henne no lite eller inkje i skrift, anna i nokre talemåtar, som: av garde, i make, i fatle, i live, av lage. +
 _Eigeformi_ er brukt ein grand, serleg i samansetning, dagsror, årstid. Dess-utan hev ein henne att i ymse ord og talemåtar: dagsens, heimses, mannsens; manna mål, årsens tid, all landsens ulukka, husens folk, himmels høgt, livs levande. Etter styreordet _til_ finn ein ofte eigeformi: til lags åt alle --, til gards, til skogs, til bygdar.
-{counter:list-counter}. Men elles er det so i norsk som i fleire nyare mål, at ein mykje må skriva um eigeformi. Det kann ein gjera:
-1. ved _styreord_: garden åt grannen, rokken til mor, sanden i havet, taket på huset
-2. ved vara-ordet _sin_: grannen sin gard, môr sin rokk.
-3. ved _hans_ og _hennar_ fyre folkenamn (sernamn og nokre få samnamn): garden hans Gunnar, målet hennar mor.
-4. ved samansetning: grannegarden, skogkanten.
+
+. Men elles er det so i norsk som i fleire nyare mål, at ein mykje må skriva um eigeformi. Det kann ein gjera:
++
+--
+  1. ved _styreord_: garden åt grannen, rokken til mor, sanden i havet, taket på huset
+  2. ved vara-ordet _sin_: grannen sin gard, môr sin rokk.
+  3. ved _hans_ og _hennar_ fyre folkenamn (sernamn og nokre få samnamn): garden hans Gunnar, målet hennar mor.
+  4. ved samansetning: grannegarden, skogkanten.
+--
++
 _Nemneformi_ er soleis brukt mest i alle høve.
-{counter:list-counter}. I bøygjingi skil namnordi seg fyrst etter kynet i tri flokkar. For kvart kyn hev me to bøygjemåtar, som me kann kalla den sterke og den linne. _Etter den sterke bøygjemåten går alle einstavingsord, og dei fleirstavingsord som endar med medljod. Etter den linne går dei fleirstavingsord som endar med sjølvljod_.
+
+
+. I bøygjingi skil namnordi seg fyrst etter kynet i tri flokkar. For kvart kyn hev me to bøygjemåtar, som me kann kalla den sterke og den linne. _Etter den sterke bøygjemåten går alle einstavingsord, og dei fleirstavingsord som endar med medljod. Etter den linne går dei fleirstavingsord som endar med sjølvljod_.
 
 === Hankynsordi
 
-{counter:list-counter}. _Den sterke bøygjemåten_.
+. _Den sterke bøygjemåten_.
 
 [.center]
 |===
@@ -42,7 +51,7 @@ Men når _ar_ er ei utvidkings-ending, går ordi støtt regelrett: _tenar-en_ --
 
 Ein må aldri kasta ei staving liksom dansken gjerer i sovorne høve, so ein t. d. fær bakarne i staden for _bakarane_, murarne i staden for _murarane_, fiskarne i staden for _fiskarane_, og romarne i staden for _romarane_.
 
-{counter:list-counter}. Nokre ord fær _er_ i fleirtal:
+. Nokre ord fær _er_ i fleirtal:
 [role="center"]
 *_kvist kvisten kvister kvistene_*
 Sameleis: _brest_, _døl_, _gjest_, _gong_, _gris_, _lem_ (t. d. lemene på kroppen), _let_ (t. d. raud og kvit let), _lut_ (ein lut av arven), _mun_. (Det gjorde stor mun. Alle munene dreg), _rett_ (matrett. Det andre ordet _rett_ går som dag: Det stod seg for alle rettar), _sau_, _sed_ (t. d. skikk og sed), _stad_, _ven_, _vev_, _vær_ (t. d. Lom-vær).
